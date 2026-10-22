@@ -1,0 +1,3 @@
+"C:\Users\Lenovo\Desktop\ES2\Traffic.obj" 
+TO "C:\Users\Lenovo\Desktop\ES2\Traffic" 
+PRINT(".\Traffic.m51") RAMSIZE(256) 
