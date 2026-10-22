@@ -1,0 +1,3 @@
+"C:\Users\Lenovo\Desktop\ES\LED.obj" 
+TO "C:\Users\Lenovo\Desktop\ES\HELLO" 
+PRINT(".\HELLO.m51") RAMSIZE(256) 
